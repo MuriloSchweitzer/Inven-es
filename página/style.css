@@ -1,0 +1,57 @@
+body{
+    font-family:'Comic sans ms';
+    margin: 0;
+    padding: 0;
+}
+.top-bar{
+    background-color: #333;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 8px;
+    border-bottom:5px solid orangered;
+}
+.container{
+    max-width: 888px;
+    margin:auto;
+    padding:40px;
+}
+
+.headline{
+    font-size: 56px;
+    line-height:64px;
+}
+.subtitle{
+    font-weight: 200;
+    font-size:20px;
+}
+.AUTHOR{
+    font-weight:bold;
+    font-size:0.8em;
+}
+img{
+    margin-left: 215px;
+}
+p{
+    max-width: 648px;
+    margin:auto;
+    font-size: 30px;
+    color:green;
+}
+.CTA{
+    text-align: center;
+    COLOR:ORANGE;
+}
+a{
+    color:orange;
+    Border-style:solid;
+    background-color: rgb(38, 255, 0);
+    border-radius:20px;
+    text-decoration: none;
+}
+.footer{
+    background-color: #333;
+    height: 100px;
+    width:888px;
+}
